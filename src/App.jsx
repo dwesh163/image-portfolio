@@ -52,7 +52,7 @@ function App() {
 				<input type="text" placeholder="Recherche par titre ou catégorie" value={searchTerm} onChange={(e) => setSearchTerm(e.target.value)} className="form-control mb-3" />
 				<div className="row">
 					{filteredImages.map((image, index) => (
-						<div key={index} className="col-md-4 mb-4" ref={(ref) => (cardRefs.current[index] = ref)}>
+						<div key={index} className="col-md-4 mb-4" style={{ overflow: 'hidden' }} ref={(ref) => (cardRefs.current[index] = ref)}>
 							<Card image={image} />
 						</div>
 					))}
