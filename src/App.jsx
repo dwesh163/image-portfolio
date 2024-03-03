@@ -11,7 +11,7 @@ function App() {
 	const cardRefs = useRef([]);
 
 	useEffect(() => {
-		fetch('images.json')
+		fetch('image-portfolio/images.json')
 			.then((response) => response.json())
 			.then((data) => setImages(data))
 			.catch((error) => console.error('Error fetching images:', error));
@@ -39,7 +39,7 @@ function App() {
 		<div className="App">
 			<div className="container mt-5 mx-auto">
 				<Filter setFilterType={setFilterType} />
-				<input type="text" placeholder="Recherche par titre ou catégorie" value={searchTerm} onChange={(e) => setSearchTerm(e.target.value)} className="form-control mb-3" />
+				{/*<input type="text" placeholder="Recherche par titre ou catégorie" value={searchTerm} onChange={(e) => setSearchTerm(e.target.value)} className="form-control mb-3" />*/}
 				<div className="row">
 					{filteredImages.map((image, index) => (
 						<div key={index} className="col-md-4 mb-4">
