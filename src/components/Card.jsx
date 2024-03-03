@@ -22,7 +22,7 @@ function Card({ image }) {
 
 	return (
 		<div className="card rounded-0" style={{ width: '100%', height: `${height}px` }}>
-			<img src={'/img/' + image.url} alt={image.title} />
+			<img src={'img/' + image.url} alt={image.title} />
 			<div className="card-body">
 				<p className="card-text">Category: {image.category.join(', ')}</p>
 				<div className="content">
