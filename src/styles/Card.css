@@ -1,6 +1,7 @@
 .card {
     border-radius: 0px;
     position: relative;
+    border: none !important;
 }
 
 .card img {
@@ -22,6 +23,7 @@
     justify-content: center;
     transition: transform 0.3s ease;
     transform: translateY(100%);
+    border: none !important;
 }
 
 .card:hover .card-body {
