@@ -1,0 +1,32 @@
+[
+    {
+        "url": "image1.jpg",
+        "title": "Image 1",
+        "category": "Nature"
+    },
+    {
+        "url": "image2.jpg",
+        "title": "Image 2",
+        "category": "Architecture"
+    },
+    {
+        "url": "image3.jpg",
+        "title": "Image 3",
+        "category": "Art"
+    },
+    {
+        "url": "image1.jpg",
+        "title": "Image 1",
+        "category": "Nature"
+    },
+    {
+        "url": "image2.jpg",
+        "title": "Image 2",
+        "category": "Architecture"
+    },
+    {
+        "url": "image3.jpg",
+        "title": "Image 3",
+        "category": "Art"
+    }
+]
