@@ -2,13 +2,14 @@
     border-radius: 0px;
     position: relative;
     border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    overflow: hidden;
 }
 
 .card img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
-    margin-top: -5%;
+    object-fit: cover;
     object-position: center;
 }
 
@@ -19,13 +20,23 @@
     height: 100%;
     background-color: rgb(255, 255, 255);
     width: 100%;
-    display: flex;
-    justify-content: center;
     transition: transform 0.3s ease;
     transform: translateY(100%);
     border: none !important;
 }
 
 .card:hover .card-body {
-    transform: translateY(85%);
+    transform: translateY(82%);
+}
+
+.content {
+    display: flex;
+    gap: 20px;
+    font-size: 0.8em;
+    font-weight: 300;
+    color: #898989;
+}
+
+.content .content-icon {
+    margin-right: 3px;
 }

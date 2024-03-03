@@ -1,32 +1,418 @@
 [
-    {
-        "url": "image1.jpg",
-        "title": "Image 1",
-        "category": "Nature"
-    },
-    {
-        "url": "image2.jpg",
-        "title": "Image 2",
-        "category": "Architecture"
-    },
-    {
-        "url": "image3.jpg",
-        "title": "Image 3",
-        "category": "Art"
-    },
-    {
-        "url": "image1.jpg",
-        "title": "Image 1",
-        "category": "Nature"
-    },
-    {
-        "url": "image2.jpg",
-        "title": "Image 2",
-        "category": "Architecture"
-    },
-    {
-        "url": "image3.jpg",
-        "title": "Image 3",
-        "category": "Art"
-    }
+  {
+    "url": "IMG_0183.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1741025588000,
+    "color": [],
+    "lieu": "Bern, Switzerland"
+  },
+  {
+    "url": "IMG_0313.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851755,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_0552.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851755,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_0587.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851755,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_0701.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851755,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_0743.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851755,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_0790.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851756,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_0883-Edit.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851756,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_0957.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851756,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3103.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851756,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3117.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851757,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3186.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851757,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3316.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851757,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3493-2.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851757,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3596.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851757,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3701.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851757,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3713.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851758,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_3750.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851758,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4179.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851758,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4187-Edit.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851759,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4190.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851759,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4251.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851759,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4287.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851759,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4300.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851760,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4385.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851760,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4422.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851760,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4477.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851760,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4492.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851760,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4593.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851760,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4726.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851760,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4927.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851761,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_4970.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851761,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5092.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851761,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5173.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851761,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5177.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851762,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5401-Edit.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851762,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5554.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851762,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5560.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851763,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5654.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851763,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_5676.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851763,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_7356.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851764,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_7358.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851764,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_7361.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851764,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_9681.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851764,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_9877.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851764,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_9884.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851764,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_9901.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851765,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_9944.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851765,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "IMG_9951.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709488851765,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "image1.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709489544237,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "image2.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709489544237,
+    "color": [],
+    "lieu": ""
+  },
+  {
+    "url": "image3.jpg",
+    "title": "image",
+    "category": [],
+    "time": 1709489544237,
+    "color": [],
+    "lieu": ""
+  }
 ]
