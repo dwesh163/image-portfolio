@@ -65,7 +65,7 @@ function getCategoryFromFileName(filename) {
 function isImageAlreadyAdded(imageUrl) {
 	let existingImages = [];
 	try {
-		const jsonData = fs.readFileSync('images.json', 'utf8');
+		const jsonData = fs.readFileSync('/public/images.json', 'utf8');
 		existingImages = JSON.parse(jsonData);
 	} catch (error) {
 		console.log("Le fichier JSON n'existe pas ou est vide.");
