@@ -11,7 +11,7 @@ function App() {
 	const cardRefs = useRef([]);
 
 	useEffect(() => {
-		fetch('image-portfolio/images.json')
+		fetch('images.json')
 			.then((response) => response.json())
 			.then((data) => setImages(data))
 			.catch((error) => console.error('Error fetching images:', error));
